@@ -1,0 +1,17 @@
+build:
+    stage: build
+    script:
+        - pip install -r requirements.txt
+        - python setup.py sdist
+
+test:py27:
+    stage: test
+    script:
+        - pip install -r requirements.txt
+        - python2.7 -m nose
+
+test:py36:
+    stage: test
+    script:
+        - pip install -r requirements.txt
+        - python3.6 -m nose

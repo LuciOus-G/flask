@@ -1,0 +1,72 @@
+# English translations for PROJECT.
+# Copyright (C) 2016 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2016-10-19 20:02+0700\n"
+"PO-Revision-Date: 2016-10-19 20:02+0700\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.3.4\n"
+
+#: flask_appsfoundry/exceptions.py:52
+msgid "An unknown error occurred."
+msgstr ""
+
+#: flask_appsfoundry/exceptions.py:82
+msgid "The requested resource could not be found"
+msgstr "The requested resource could not be found."
+
+#: flask_appsfoundry/exceptions.py:92
+msgid "The server encountered an internal error."
+msgstr ""
+
+#: flask_appsfoundry/exceptions.py:102
+msgid "The request conflicts with the server."
+msgstr ""
+
+#: flask_appsfoundry/exceptions.py:113
+msgid "You cannot access this resource with the provided credentials."
+msgstr ""
+
+#: flask_appsfoundry/exceptions.py:124
+msgid "You cannot access this resource."
+msgstr ""
+
+#: flask_appsfoundry/exceptions.py:134
+msgid "Your request couldn't be understood by the server."
+msgstr ""
+
+#: flask_appsfoundry/exceptions.py:144
+msgid "Your request contained invalid data."
+msgstr ""
+
+#: flask_appsfoundry/exceptions.py:154
+msgid "Expectation failed"
+msgstr ""
+
+#: flask_appsfoundry/exceptions.py:164
+msgid "Operation is still processing."
+msgstr ""
+
+#: flask_appsfoundry/exceptions.py:182
+msgid "Invalid ACCEPT mimetype"
+msgstr ""
+
+#: flask_appsfoundry/exceptions.py:192
+msgid "Method not allowed"
+msgstr ""
+
+#: flask_appsfoundry/serializers/fields.py:46
+msgid "Unsupported date format {date_format}"
+msgstr ""
+
